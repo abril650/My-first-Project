@@ -15,7 +15,8 @@ struct ContentView: View {
                 .font( .title)
             
             
-            Image(/*@START_MENU_TOKEN@*/"Image Name"/*@END_MENU_TOKEN@*/)
+            Image("panda")
+            
         }
 
         
